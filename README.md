@@ -1,6 +1,6 @@
 <a href="https://www.youtube.com/watch?v=GwaRztMaoY0">
 
-<img src='https://github.com/PeterB2003/PeterB2003/blob/main/gojo.gif' />
+<img src='' />
 </a>
 
 <!--
